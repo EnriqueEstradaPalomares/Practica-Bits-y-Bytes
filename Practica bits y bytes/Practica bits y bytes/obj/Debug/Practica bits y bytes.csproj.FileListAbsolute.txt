@@ -1,0 +1,10 @@
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\bin\Debug\Practica bits y bytes.exe.config
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\bin\Debug\Practica bits y bytes.exe
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\bin\Debug\Practica bits y bytes.pdb
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica bits y bytes.csprojResolveAssemblyReference.cache
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica_bits_y_bytes.Form1.resources
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica_bits_y_bytes.Properties.Resources.resources
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica bits y bytes.csproj.GenerateResource.Cache
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica bits y bytes.csproj.CoreCompileInputs.cache
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica bits y bytes.exe
+C:\Users\JoséEnrique\Documents\Visual Studio 2017\Proyectos\Practica bits y bytes\Practica bits y bytes\obj\Debug\Practica bits y bytes.pdb
